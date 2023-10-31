@@ -1,2 +1,4 @@
 # Barbearia-Alura
 Este é o meu primeiro portfólio desenvolvido durante minha formação front-end no Alura, utilizando HTML e CSS.
+
+<p xmlns:cc="http://creativecommons.org/ns#" >Este trabalho está licenciado sob <a href="http://creativecommons.org/licenses/by-nd/4.0/?ref=chooser- v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-ND 4.0<img style="height:22px!important;margin-left:3px;vertical-align :texto inferior;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text -fundo;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text -fundo;" src="https://mirrors.creativecommons.org/presskit/icons/nd.svg?ref=chooser-v1"></a></p>
